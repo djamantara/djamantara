@@ -13,7 +13,7 @@ buttons.forEach(button => {
         window.open('http://djamantara87.blogspot.com/', '_blank');
         break;
       case 'read more':
-        window.open('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN0aJ2o2YaWPMYxf6EEuL9B6CqqQIaacTBvILH38XbD57PpHEKhx_fJwEX9WoujytrQlslAkLXViinAkBDWFkmOH3Appbs6gEw6nP4RR6UugH_r_i9TB4d1v-tWqiwutkZiVch4Txm4ZbV-Syii4Llpq99GkV2J8Lj0xCVY9yy9E-exPA/s220/1732785649732.png', '_blank'); 
+        window.open('https://youtube.com/@djamantara', '_blank'); 
         break; 
     }
   });
